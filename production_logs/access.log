@@ -92,3 +92,11 @@
 [0mGET /users/css/layout.css [33m404[0m 14.505 ms - 159[0m
 [0mGET /users/css/header.css [33m404[0m 13.304 ms - 159[0m
 [0mGET /users/css/footer.css [33m404[0m 16.100 ms - 159[0m
+[0mGET / [32m200[0m 85.281 ms - 9032[0m
+[0mGET /users/sign-in [36m304[0m 9.861 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.848 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.308 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 16.832 ms - 159[0m
+[0mGET /users/auth/google [36m302[0m 4.328 ms - 0[0m
+[0mGET /users/auth/google/callback?code=4%2F0AVHEtk5LBlivxllPEbHi0V6gerF3dbIEjNbqGpGmvTdpFV9pvl_IJ2G3u_9YvDrK8eWwhw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=1&prompt=consent [36m302[0m 531.569 ms - 46[0m
+[0mGET / [32m200[0m 27.597 ms - 14526[0m
