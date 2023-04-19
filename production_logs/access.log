@@ -112,3 +112,5 @@
 [0mGET / [32m200[0m 24.363 ms - 14526[0m
 [0mGET /users/auth/google/callback?code=4%2F0AVHEtk4wK_I51FHBBI2rAdC4hsd39jHhjJDG_g0hLAkBAoD-tbe2iFf_vk3q_sMNXS6twg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=1&prompt=consent [36m302[0m 426.144 ms - 46[0m
 [0mGET / [36m304[0m 20.469 ms - -[0m
+[0mGET /users/auth/google/callback?code=4%2F0AVHEtk7W_Iv_M0TTjc4CL-eOPbqOkx3qTC-IlceK5FYwusHhWOa9K-_xuDP8F7Db9fKgig&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=1&prompt=consent [36m302[0m 542.931 ms - 46[0m
+[0mGET / [36m304[0m 47.107 ms - -[0m
